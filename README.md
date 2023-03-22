@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abubakar Siddique</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Library Management System**
+- 🔭 I’m currently solving **Assignment, Quizzes and HackerRank challenges**
 
 - 🌱 I’m currently learning **ASP.NET 6**
 
