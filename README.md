@@ -1,5 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-aKXUmGe_Cdk/YACmKq9d1ZI/AAAAAAAAP_o/KkKe1xVCL0weBvDApumCnFBx63VXBEoJgCLcBGAsYHQ/s0/more-productivity-with-Kotlin-header.png)]()
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+[![MasterHead](https://wallpaperaccess.com/full/3617980.jpg)]()
+
 <h1 align="center">Hi 👋, I'm Abubakar Siddique</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
