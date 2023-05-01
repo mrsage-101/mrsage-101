@@ -1,5 +1,3 @@
-[![MasterHead](https://wallpaperaccess.com/full/3617980.jpg)]()
-
 <h1 align="center">Hi 👋, I'm Abubakar Siddique</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
