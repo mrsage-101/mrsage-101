@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mrsage-101](https://github.com/mrsage-101)
+- 👨‍💻 My LinkedIn [https://www.linkedin.com/in/muhammad-abubakar-siddique-82b691228/]
 
 - 💬 Ask me about **C++,C#, .Net6 Core, ORACLE - {OOP, DS, DB}**
 
