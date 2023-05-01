@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abubakarxeditz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abubakarxeditz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad abubakar siddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad abubakar siddique" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-abubakar-siddique-82b691228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad abubakar siddique" height="30" width="40" /></a>
 <a href="https://instagram.com/alif_se_abubakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alif_se_abubakar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@abubakaryourkey1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abubakaryourkey1" height="30" width="40" /></a>
 </p>
