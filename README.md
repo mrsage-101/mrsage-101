@@ -2,19 +2,8 @@
 <h3 align="center">A passionate developer from Pakistan</h3>
 
 - 🔭 I’m currently solving **Assignment, Quizzes and HackerRank challenges**
-
 - 🌱 I’m currently learning **ASP.NET 6**
-
-- 🤝 I’m looking for help with **Web Development**
-
-- 👨‍💻 My LinkedIn [https://www.linkedin.com/in/muhammad-abubakar-siddique-82b691228/]
-
 - 💬 Ask me about **C++,C#, .Net6 Core, ORACLE - {OOP, DS, DB}**
-
-- 📫 How to reach me **abubakarkhurram45@gmail.com**
-
-- ⚡ Fun fact **A shrimp's heart is in its head**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abubakarxeditz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abubakarxeditz" height="30" width="40" /></a>
