@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abubakar Siddique</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **CHEAPRIDES - ASP.NET6 MVC (Web-Application {Semester Project})**
-- 🌱 I’m currently learning **ASP.NET 6**
+- 🔭 I’m currently working on **CHEAPCARS - ASP.NET6 MVC (Web-Application)**
+- 🌱 I’m currently learning **ASP.NET-6 MVC-5**
 - 💬 Ask me about **C++,C#, .Net6 Core, ORACLE, SQL - {OOP, DS, DB}**
 
 <h3 align="left">Languages and Tools:</h3>
