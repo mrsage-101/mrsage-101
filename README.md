@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abubakar Siddique</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Abubakars PieShop - ASP.NET6 MVC (Web-Application)**
-- 🌱 I’m currently learning **ASP.NET-6 MVC-5**
-- 💬 Ask me about **C++,C#, .Net6 Core, ORACLE, SQL - {OOP, DS, DB}**
+💬 - Final year student at **FAST NATIONAL UNIVERSITY, CFD CAMPUS**. Decided to go into the industry as a **backend developer**.
+
+**Framework**: .NET (took an elective and enjoyed developing in it as a backend developer in my group)
+**Databases**: SQL, PostgreSQL (intermediate level)
+**Languages**: C++, C#, Pyhton(exploring this semester)
+**Scripting**: Aim to learn Javascript
+
+🌱 - Lastly, I currently taking a course in data science, and a month into this course now cleaned my hands on PostgreSQL, and Python basic concepts (DS, OOP). Now started working on Introduction to NumPy, and Statistics in Python. (**Changing my stack from .NET towards Python Frameworks**)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
