@@ -8,4 +8,4 @@
  - **Languages**: C++, C#, Pyton(exploring this semester).
  - **Scripting**: Aim to learn Javascript.
 
-🌱 - Lastly, I currently taking a course in data science, and a month into this course now cleaned my hands on PostgreSQL, and Python basic concepts (DS, OOP). Now started working on Introduction to NumPy, and Statistics in Python. (**Changing my stack from .NET towards Python Frameworks**)
+🌱 - Lastly, I currently taking a course in data science, and a month into this course now cleaned my hands on PostgreSQL, and Python basic concepts (DS, OOP). Now started working on NumPy, Pandas, and Matplot in Python. (**Changing my stack from .NET towards Python Frameworks**)
