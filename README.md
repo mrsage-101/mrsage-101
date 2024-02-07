@@ -8,5 +8,3 @@
  - **Languages**: C++, C#, Python
  - **Scripting**: Aim to learn Javascript
  - **FrontEnd**: HTML, CSS
-
-Data Analyst, aim to become Full Stack Developer.
