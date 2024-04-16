@@ -3,8 +3,8 @@
 
 💬 - Final year student at **FAST NATIONAL UNIVERSITY, CFD CAMPUS**.
 
- - **Framework**: .NET (took an elective and enjoyed developing in it as a backend developer in my group), Express Js
+ - **Framework**: .NET (took an elective and enjoyed developing in it as a backend developer in my group), Express Js (Learning Phase)
  - **Databases**: SQL, PostgreSQL (intermediate level)
  - **Languages**: C++, C#, Python
- - **Scripting**: Aim to learn Javascript
- - **FrontEnd**: HTML, CSS
+ - **Scripting**: Javascript
+ - **FrontEnd**: HTML, CSS, React (Learning Phase)
