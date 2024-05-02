@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abubakar Siddique</h1>
+
 <h3 align="center">A passionate developer from Pakistan</h3>
 
 💬 - Final year student at **FAST NATIONAL UNIVERSITY, CFD CAMPUS**.
