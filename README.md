@@ -9,4 +9,4 @@
  - **Scripting**: Javascript
  - **FrontEnd**: HTML, CSS, React (Learning Phase)
  - **State-Management**: Redux Toolkit
- - **Backup**: abubakar4-u is another GitHub account. It was registered when this account got suspended for few days. 
+ - **Backup**: abubakar4-u is another GitHub account. 
