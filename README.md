@@ -1,8 +1,7 @@
 
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-💬 - Final year student at **FAST NATIONAL UNIVERSITY, CFD CAMPUS**.
- - **Portfolio Website**:  https://mrsage-101.github.io/Web-Programming/
+💬 - Graduated from **FAST NATIONAL UNIVERSITY, CFD CAMPUS, Pakistan**.
  - **Framework**: .NET , Express Js
  - **Databases**: SQL, PostgreSQL, MongoDb (intermediate level) 
  - **Languages**: C++, C#, Python
